@@ -1,0 +1,16 @@
+{
+  "name": "generator-QR",
+  "version": "0.1.1",
+  "description": "QR reder plug-in for Photoshop Generator",
+  "main": "main.js",
+  "generator-core-version": "^3.10.0",
+  "author": "ag",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "jsqr": "^1.2.0",
+    "mysql": "^2.17.1",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {}
+}
